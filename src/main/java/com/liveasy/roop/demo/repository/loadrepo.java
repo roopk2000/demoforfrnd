@@ -1,6 +1,6 @@
-package com.example.demoforfrnd.repository;
+package com.liveasy.roop.demo.repository;
 
-import com.example.demoforfrnd.entity.Load;
+import com.liveasy.roop.demo.entity.Load;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

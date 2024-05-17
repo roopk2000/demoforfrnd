@@ -1,7 +1,7 @@
-package com.example.demoforfrnd.controller;
+package com.liveasy.roop.demo.controller;
 
-import com.example.demoforfrnd.entity.Load;
-import com.example.demoforfrnd.service.impl.impl.loadservice;
+import com.liveasy.roop.demo.entity.Load;
+import com.liveasy.roop.demo.service.impl.impl.loadservice;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

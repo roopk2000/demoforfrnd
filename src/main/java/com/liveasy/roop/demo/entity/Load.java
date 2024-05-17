@@ -1,4 +1,4 @@
-package com.example.demoforfrnd.entity;
+package com.liveasy.roop.demo.entity;
 
 
 import jakarta.persistence.*;

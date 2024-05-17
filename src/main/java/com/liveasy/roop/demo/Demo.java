@@ -1,6 +1,6 @@
-package com.example.demo;
+package com.liveasy.roop.demo;
 
-import com.example.demo.repository.loadrepo;
+import com.liveasy.roop.demo.repository.loadrepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

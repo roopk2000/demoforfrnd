@@ -1,7 +1,7 @@
-package com.example.demoforfrnd.service.impl.impl;
+package com.liveasy.roop.demo.service.impl.impl;
 
-import com.example.demoforfrnd.entity.Load;
-import com.example.demoforfrnd.repository.loadrepo;
+import com.liveasy.roop.demo.entity.Load;
+import com.liveasy.roop.demo.repository.loadrepo;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
